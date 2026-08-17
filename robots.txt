@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-vfd8fc.introduse.me/sitemap.xml
